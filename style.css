@@ -3,11 +3,22 @@ body {
   background: #cccccc;
 }
 
+#banner {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
 p {
   text-align: center;
-  /* background: #cccccc; */
 }
 
 em strong {
   color: red;
+}
+
+#mission {
+  font-size: 20px;
 }
