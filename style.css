@@ -1,9 +1,8 @@
+.titulo-principal {
+  padding-left: 30px;
+}
 
-/* body {
-  background: #cccccc;
-} */
-
-#banner {
+.banner {
   width: 100%;
 }
 
@@ -12,20 +11,20 @@
   padding: 20px;
 }
 
-h1 {
+.titulo-centrado {
   text-align: center;
 }
 
-p {
+.parrafos {
   text-align: center;
 }
 
-em strong {
-  color: red;
-}
-
-#mission {
+.mission {
   font-size: 20px;
+}
+
+.mission__texto {
+  color: red;
 }
 
 .diferenciales {
@@ -33,11 +32,7 @@ em strong {
   padding: 30px;
 }
 
-h2 {
-  text-align: center;
-}
-
-ul {
+.diferenciales__lista {
   display: inline-block;
   vertical-align: top;
   width: 20%;
